@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* h1{
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+} */
+
+.active
+{
+    background-color:green;
+    color: white;
+}
+
+.home
+{
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+
